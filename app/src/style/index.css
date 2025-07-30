@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+#header {
+  display: flex;         
+  align-items: center;   
+  gap: 10px;   
+}
+
+#header-menu {
+  order: 2;          
+}
+
+#header-popup {
+  order: 1;              
+}
+
+body {
+  /* background-color: silver; */
+  background-color: #181818;
+}
+
+input[type="range"]::-moz-range-thumb {
+  width: 15px;
+  height: 24px;
+  background: transparent;
+  cursor: e-resize;
+  border: 0px transparent;
+}
+
