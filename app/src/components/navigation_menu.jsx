@@ -1,8 +1,8 @@
 import * as React from "react";
 import { NavigationMenu } from "radix-ui";
 import classNames from "classnames";
-import { CaretDownIcon } from "@radix-ui/react-icons";
-import { createRoot } from 'react-dom/client';
+// import { CaretDownIcon } from "@radix-ui/react-icons";
+// import { createRoot } from 'react-dom/client';
 
 const NavigationMenuDemo = () => {
 	return (

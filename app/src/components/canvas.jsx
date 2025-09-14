@@ -1,4 +1,4 @@
-import '../style/index.css';
+// import '../style/index.css';
 import React, { Suspense, useEffect, useRef, useState} from 'react';
 import { createRoot } from 'react-dom/client';
 import { Canvas , useFrame } from '@react-three/fiber';
