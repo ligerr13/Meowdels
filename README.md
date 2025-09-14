@@ -17,11 +17,11 @@ It may contain **bugs** and **unfinished features**. Use it at your own risk.
 
 ## Features
 
-' - Load .glb 3D model files from your computer
-' - Orbit, zoom, and rotate 3D models
-' - Auto-rotation of placeholder objects
-' - Tailwind CSS styled UI and buttons
-' - Simple dialog-based file loader
+- Load .glb 3D model files from your computer
+- Orbit, zoom, and rotate 3D models
+- Auto-rotation of placeholder objects
+- Tailwind CSS styled UI and buttons
+- Simple dialog-based file loader
 
 # Getting Started
 
@@ -62,4 +62,5 @@ Open http://localhost:8000
 ![](https://i.imgur.com/BukvCyo.gif)
 
 <!-- ![](https://imgur.com/a/rjFq1bG) -->
+
 
