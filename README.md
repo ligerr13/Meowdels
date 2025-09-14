@@ -23,7 +23,7 @@ It may contain **bugs** and **unfinished features**. Use it at your own risk.
 - Tailwind CSS styled UI and buttons
 - Simple dialog-based file loader
 
-# Getting Started
+## Getting Started
 
 Clone the repository:
 
@@ -59,8 +59,11 @@ npm run build     # production build
 ```
 Open http://localhost:8000
 
+## Media
+
 ![](https://i.imgur.com/BukvCyo.gif)
 
 <!-- ![](https://imgur.com/a/rjFq1bG) -->
+
 
 
